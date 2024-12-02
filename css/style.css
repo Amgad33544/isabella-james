@@ -120,7 +120,8 @@ body{
     html{
         font-size: 50%;
     }
-    .home .image img{
-    margin:0;
+    .home .image{
+    margin-bottom:0;
+        
 }
 }
