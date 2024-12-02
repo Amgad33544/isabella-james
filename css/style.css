@@ -120,8 +120,7 @@ body{
     html{
         font-size: 50%;
     }
-    .home .image{
-    margin-bottom:0;
-        
-}
+    .btn{
+        margin-bottom:0;
+    }
 }
